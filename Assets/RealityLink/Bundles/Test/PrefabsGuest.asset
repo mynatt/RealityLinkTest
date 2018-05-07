@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b18157802704b94b2b38f440f2436e, type: 3}
+  m_Name: PrefabsGuest
+  m_EditorClassIdentifier: 
+  items:
+  - uid: apple
+    prefab: {fileID: 1970559692434468, guid: 278c7c729413e4c34a8ffc880eb3d645, type: 2}
+  - uid: cube
+    prefab: {fileID: 1355816326426350, guid: 97da22f3d877e4b4c9bb385f3543af7a, type: 2}
+  - uid: desk
+    prefab: {fileID: 1057755435212522, guid: 545a7c50f20304769aed8f2ba008200a, type: 2}
